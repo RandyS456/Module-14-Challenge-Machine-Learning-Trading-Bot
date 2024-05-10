@@ -19,7 +19,9 @@ Create an Evaluation Report
 
 
 
-#### Please use the following nbviewer version link to view the complete graphic results along with required coding: 
+#### Please use the following nbviewer version link to view the complete graphic results along with required coding: https://nbviewer.org/github/RandyS456/Module-14-Challenge-Machine-Learning-Trading-Bot/blob/main/machine_learning_trading_bot.ipynb
+
+
 
 
 
